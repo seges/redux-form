@@ -1,6 +1,9 @@
-import React from 'react';
+import preact from 'preact';
+import React from 'preact-compat';
 import {connect} from 'react-redux';
 import createAll from './createAll';
+
+React.h = preact.h;
 
 const isNative =
   typeof window !== 'undefined' &&

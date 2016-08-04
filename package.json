@@ -42,6 +42,8 @@
     "deep-equal": "^1.0.1",
     "hoist-non-react-statics": "^1.0.5",
     "is-promise": "^2.1.0",
+    "preact": "^5.6.0",
+    "preact-compat": "^2.3.0",
     "react-lazy-cache": "^3.0.1"
   },
   "devDependencies": {
