@@ -1,4 +1,5 @@
 .idea
+redux-form.iml
 coverage
 node_modules
 dist
